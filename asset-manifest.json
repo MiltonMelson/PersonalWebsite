@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MiltonMelson/PersonalWebsite.git/static/css/main.e13b552f.css",
+    "main.js": "/MiltonMelson/PersonalWebsite.git/static/js/main.3630c9f6.js",
+    "static/media/note2.png": "/MiltonMelson/PersonalWebsite.git/static/media/note2.68b521944c191fe470e3.png",
+    "static/media/note3.png": "/MiltonMelson/PersonalWebsite.git/static/media/note3.cc8113735fbaa423da5a.png",
+    "static/media/note4.png": "/MiltonMelson/PersonalWebsite.git/static/media/note4.37ceda70487b6e222274.png",
+    "static/media/note1.png": "/MiltonMelson/PersonalWebsite.git/static/media/note1.693f212d7d32d35eee0a.png",
+    "static/media/fallout.png": "/MiltonMelson/PersonalWebsite.git/static/media/fallout.9593d8081e123aad7a3b.png",
+    "static/media/b.png": "/MiltonMelson/PersonalWebsite.git/static/media/b.655a144f1f1ae1708f91.png",
+    "static/media/pixel-art-maker-alt.png": "/MiltonMelson/PersonalWebsite.git/static/media/pixel-art-maker-alt.c60765f7f4768493e02c.png",
+    "static/media/c.png": "/MiltonMelson/PersonalWebsite.git/static/media/c.d4fcde7aa02064fbf934.png",
+    "static/media/a.png": "/MiltonMelson/PersonalWebsite.git/static/media/a.9efdde05124b0b4441c1.png",
+    "index.html": "/MiltonMelson/PersonalWebsite.git/index.html",
+    "main.e13b552f.css.map": "/MiltonMelson/PersonalWebsite.git/static/css/main.e13b552f.css.map",
+    "main.3630c9f6.js.map": "/MiltonMelson/PersonalWebsite.git/static/js/main.3630c9f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13b552f.css",
+    "static/js/main.3630c9f6.js"
+  ]
+}
