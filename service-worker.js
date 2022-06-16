@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MiltonMelson/PersonalWebsite.git/precache-manifest.95ff34f5d150233e72390fe77f3c221a.js"
+  "/PersonalWebsite/precache-manifest.5ac35dded483dd37a8488167b632e3cb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MiltonMelson/PersonalWebsite.git/index.html", {
+workbox.routing.registerNavigationRoute("/PersonalWebsite/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
