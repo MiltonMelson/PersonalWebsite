@@ -8,10 +8,6 @@ export default function Page() {
          <div id="block1">
             <h1>Milton Melson</h1>
             <h3>Veteran and CSSE Student at UWB</h3>
-            <p>
-               I built this site to host all my project in one location. But it will also serve as a way for me to
-               improve my skills in web design. Below are some of my projects that I have been working on recently.
-            </p>
          </div>
          <div id='block2'>
             <h1>About Me</h1>
@@ -24,6 +20,10 @@ export default function Page() {
                I currently use C++ in most of my school projects and recently some Java in my Operating Systems class. I have also been taking courses like VetsInTech and using any free time to
                teach myself other languages like JavaScript, HTML, and CSS. To improve these skills I have been building minor projects using tools like node.js, mongoDB, Express,
                and React.
+            </p>
+            <p>
+               I built this site to host some of my projects that are more interactive in one location, and to learn how to use React. The less interactive projects 
+               written in C++ are in my GitHub, which can be accessed by following the link at the top of the page.
             </p>
          </div>
       </div>

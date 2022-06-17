@@ -4,8 +4,7 @@ body {
    font-size: 1rem;
    line-height: 1.5;
    color: white;
-   background: rgb(0, 255, 250);
-   background: radial-gradient(circle, rgba(0, 255, 250, 1) 0%, rgba(0, 255, 254, 1) 0%, rgba(0, 0, 0, 1) 100%);
+   background-color: rgb(27, 27, 27);
 }
 
 .navBar {
@@ -13,18 +12,9 @@ body {
    justify-content: space-between;
    align-items: center;
    height: 3.75rem;
-   box-shadow: 0 0.125rem 1.25rem white;
+   box-shadow: 0 50px 1000px white;
    background-color: black;
    margin-bottom: 2.5rem;
-}
-
-.navBar a {
-   text-decoration: none;
-   color: white;
-}
-
-.navBar a:hover {
-   color: cyan;
 }
 
 .navBar ul {
@@ -41,7 +31,6 @@ body {
    width: 100%;
    justify-content: space-around;
    align-items: center;
-   box-shadow: 0 0.3125rem 0.625rem black;
    margin-bottom: 3.125rem;
    padding-bottom: 1.5625rem;
 }
@@ -67,44 +56,61 @@ body {
    display: flex;
    flex-direction: column;
    align-items: center;
-   margin: 0 28.125rem;
+   margin: 50px;
+   padding: 20px;
+   box-shadow: 0 0 25px white;
+}
+
+.spaceInvaderHeading ul, li {
+   align-self: flex-start;
 }
 
 .hackathonHeading {
    display: flex;
    flex-direction: column;
    align-items: center;
-   margin: 0 28.125rem;
-   color: black;
+   margin: 50px;
+   box-shadow: 0 0 25px white;
+   padding: 20px;
 }
+
+.hackathonHeading p {
+   align-self: flex-start;
+}
+
 .falloutHeading {
    display: flex;
    flex-direction: column;
    align-items: center;
-   margin: 0 28.125rem;
-   color: black;
+   margin: 50px;
+   box-shadow: 0 0 25px white;
+   padding: 20px;
 }
+
+.falloutHeading p {
+   align-self: flex-start;
+}
+
 .pixelHeading {
    display: flex;
    flex-direction: column;
    align-items: center;
-   margin: 0 28.125rem;
+   margin: 50px;
+   box-shadow: 0 0 25px white;
+   padding: 20px;
 }
 
-a {
+.neonText {
    text-decoration: none;
    font-weight: bold;
    font-size: 1.25rem;
    padding: 1.25rem;
-}
-
-.neonText {
    color: white;
 }
 
 .neonText:hover {
-   text-shadow: 0 0 20px black;
-   color:rgba(0, 0, 0, 1);
+   text-shadow: 0 0 20px rgb(0, 255, 4);
+   color:rgb(34, 255, 0);
 }
 
 .slider {
@@ -132,7 +138,7 @@ a {
 }
 
 .slides::-webkit-scrollbar-track {
-   background: transparent;
+   background: white;
 }
 
 .slides>div {
@@ -154,20 +160,6 @@ a {
 .slides img {
    width: 56.25rem;
    height: 37.5rem;
-}
-
-.slider>a {
-   display: inline-flex;
-   width: 1.5rem;
-   height: 1.5rem;
-   background: white;
-   color: black;
-   text-decoration: none;
-   align-items: center;
-   justify-content: center;
-   border-radius: 50%;
-   margin: 0.625rem 0.625rem 0.5rem 0;
-   position: relative;
 }
 
 .slider>a:active {
