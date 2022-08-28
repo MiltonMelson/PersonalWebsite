@@ -27,7 +27,7 @@ export default function SlideShow() {
                   How to use id, classes, and keyframes in CSS/HTML.
                </li>
             </ul>
-            <a className="neonText" href="https://miltonmelson.github.io/SpaceInvaders/"><ion-icon name="planet-sharp"></ion-icon>Play Game</a>
+            <a className="neonText_green" href="https://miltonmelson.github.io/SpaceInvaders/"><ion-icon name="planet-sharp"></ion-icon>Play Game</a>
             <div className="slider">
                <div className="slides">
                   <div id="slide1-1">
@@ -56,7 +56,7 @@ export default function SlideShow() {
                if you have missed class that day and others may have set their notes to public so you could go over theres
                to see anything you may have missed.
             </p>
-            <a className='neonText' href="https://tranquil-bastion-78148.herokuapp.com/">Try It Out</a>
+            <a className='neonText_blue' href="https://tranquil-bastion-78148.herokuapp.com/">Try It Out</a>
             <div className="slider">
                <div className="slides">
                   <div id="slide2-1">
@@ -87,7 +87,7 @@ export default function SlideShow() {
                when checking pairs. The pairs that match will stay flipped and lock so you cannot click them again.
                If all pairs are found before the time runs out you win.
             </p>
-            <a className='neonText' href="https://miltonmelson.github.io/FalloutMemoryGame/">Play Game</a>
+            <a className='neonText_green' href="https://miltonmelson.github.io/FalloutMemoryGame/">Play Game</a>
             <div className="slider">
                <div className="slides">
                   <div id="slide3-1">
@@ -103,7 +103,7 @@ export default function SlideShow() {
                Simply tool to draw using individual cells as pixels. It allows you to pick the size of the board
                before starting to draw.
             </p>
-            <a className='neonText' href="https://miltonmelson.github.io/PixelArtMaker/">Try It Out</a>
+            <a className='neonText_blue' href="https://miltonmelson.github.io/PixelArtMaker/">Try It Out</a>
             <div className="slider">
                <div className="slides">
                   <div id="slide3-1">

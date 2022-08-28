@@ -100,7 +100,7 @@ body {
    padding: 20px;
 }
 
-.neonText {
+.neonText_green {
    text-decoration: none;
    font-weight: bold;
    font-size: 1.25rem;
@@ -108,9 +108,22 @@ body {
    color: white;
 }
 
-.neonText:hover {
+.neonText_green:hover {
    text-shadow: 0 0 20px rgb(0, 255, 4);
    color:rgb(34, 255, 0);
+}
+
+.neonText_blue {
+   text-decoration: none;
+   font-weight: bold;
+   font-size: 1.25rem;
+   padding: 1.25rem;
+   color: white;
+}
+
+.neonText_blue:hover {
+   text-shadow: 0 0 20px rgb(0, 204, 255);
+   color:rgb(0, 204, 255);
 }
 
 .slider {
@@ -128,8 +141,8 @@ body {
 }
 
 .slides::-webkit-scrollbar {
-   width: 0.625rem;
-   height: 0.625rem;
+   width: .625rem;
+   height: .625rem;
 }
 
 .slides::-webkit-scrollbar-thumb {
