@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d16f52b05ea048737dab",
+    "revision": "b9350df5fa546a27000d",
     "url": "/PersonalWebsite/static/css/main.f29e1072.chunk.css"
   },
   {
-    "revision": "d16f52b05ea048737dab",
-    "url": "/PersonalWebsite/static/js/main.d16f52b0.chunk.js"
+    "revision": "b9350df5fa546a27000d",
+    "url": "/PersonalWebsite/static/js/main.b9350df5.chunk.js"
   },
   {
     "revision": "776f7daaf0fefc02d599",
@@ -26,6 +26,18 @@ self.__precacheManifest = [
   {
     "revision": "88cfe4cced25d245ed2cfeac466937b3",
     "url": "/PersonalWebsite/static/media/c.88cfe4cc.png"
+  },
+  {
+    "revision": "76a9b96c66b6c309579a6ce146c1f75a",
+    "url": "/PersonalWebsite/static/media/rps1.76a9b96c.png"
+  },
+  {
+    "revision": "6d2ab3e6d1d0d5c3613faf34deaeb599",
+    "url": "/PersonalWebsite/static/media/rps2.6d2ab3e6.png"
+  },
+  {
+    "revision": "b5f4c9058e2dcb38d44bf25afdb5a149",
+    "url": "/PersonalWebsite/static/media/rps3.b5f4c905.png"
   },
   {
     "revision": "5c4795354db3c5b7a1d4379efa547081",
@@ -52,7 +64,7 @@ self.__precacheManifest = [
     "url": "/PersonalWebsite/static/media/pixel-art-maker-alt.0130afd0.png"
   },
   {
-    "revision": "653993bce8e10438c70acdfc748ab418",
+    "revision": "6e27f486cc44a14c8cc331e5aebb628d",
     "url": "/PersonalWebsite/index.html"
   }
 ];
